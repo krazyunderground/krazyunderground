@@ -1,0 +1,5 @@
+- Hi, I’m Krazyunderground, a Discord bot dev.
+- I like Discord bots, and NodeJS
+- I am attempting to learn C++ and C#
+- If you want a Discord bot, get in touch with me
+- My Discord username is Krazyunderground#0001, come find me
