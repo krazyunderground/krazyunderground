@@ -1,3 +1,3 @@
 - Hi, I’m Krazyunderground, a Full-Stack-ish Dev.
 - If you have a project you believe i'd be interested in, feel free to ask
-- My Discord username is Krazyunderground#0001<br/>
+- My Discord username is Krazyunderground<br/>
